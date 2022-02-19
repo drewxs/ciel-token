@@ -1,3 +1,5 @@
 /.vscode
-/secret.txt
 /Ciel
+/bin
+*.txt
+*.vb
